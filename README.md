@@ -83,6 +83,6 @@
   
   <p> The complete project is deployed on Heroku Cloud.
   
- <p> Here is the link where you can access the project live : https://healthcaremlwebapp.herokuapp.com  <p>
+ <p> Here is the link where you can access the project live : https://healthcaremlwebapp.herokuapp.com <p>
   <p> If you like this repo, please don't forget to give a ⭐.
 </p>
