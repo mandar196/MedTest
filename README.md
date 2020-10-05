@@ -22,7 +22,7 @@
 <ul>
 <li><p><b>Kernal for Malaria model :</b>https://www.kaggle.com/mandarkulkarnipune/malaria-detection-model</p></li>
 
-<li><p><b>Kernal for Pneumonia model :</b>https://www.kaggle.com/shobhit18th/keras-nn-x-ray-predict-pneumonia-86-54</p></li>
+<li><p><b>Kernal for Pneumonia model :</b>https://www.kaggle.com/mandarkulkarnipune/pneumonia-detection-model</p></li>
 <hr>
 </ul>
 
