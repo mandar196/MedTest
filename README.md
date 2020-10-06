@@ -1,4 +1,4 @@
-# Healthcare Machine Learning Application
+# MedTest Machine Learning Application
 
 ![1](https://user-images.githubusercontent.com/61036755/94990314-c13b7800-0598-11eb-96ab-94e243e019f2.jpg)
 <p> This is complete End to end ML Application in Healthcare sector.</p>
