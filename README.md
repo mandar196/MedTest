@@ -55,21 +55,23 @@
 
 <h3> Screenshots </h3>
 
-![home](https://user-images.githubusercontent.com/61036755/94990681-a3234700-059b-11eb-910c-bf761fd6a99c.png)
+![home](https://user-images.githubusercontent.com/61036755/95286634-8465ce80-0881-11eb-94b5-472381f132b9.png)
 
-![cancer](https://user-images.githubusercontent.com/61036755/94990685-a8809180-059b-11eb-8a84-e3ffc618441c.png)
+![canc info](https://user-images.githubusercontent.com/61036755/95286643-8b8cdc80-0881-11eb-85ec-75b2c8e46438.png)
 
-![diabetes](https://user-images.githubusercontent.com/61036755/94990689-ad454580-059b-11eb-8611-c9dc7fc77a20.png)
+![diab info](https://user-images.githubusercontent.com/61036755/95286667-97789e80-0881-11eb-87da-b4c0c3e65cf8.png)
 
-![malaria prediction](https://user-images.githubusercontent.com/61036755/94992067-ef26b980-05a4-11eb-9b0a-3d1781eb4bbb.png)
+![heart info](https://user-images.githubusercontent.com/61036755/95286671-9b0c2580-0881-11eb-89ee-fdcd2b70f6c5.png)
 
-![pneumo](https://user-images.githubusercontent.com/61036755/94990698-b46c5380-059b-11eb-9f92-9af7f5e4e578.png)
+![diab pred](https://user-images.githubusercontent.com/61036755/95286693-a7907e00-0881-11eb-95c1-80e9d24cf0e4.png)
 
-![diabe pred](https://user-images.githubusercontent.com/61036755/94990708-bdf5bb80-059b-11eb-98b2-56496ded3fcf.png)
+![heart pred](https://user-images.githubusercontent.com/61036755/95286706-ad865f00-0881-11eb-8cea-be74ea0ebc22.png)
 
-![heart pred](https://user-images.githubusercontent.com/61036755/94990711-c3eb9c80-059b-11eb-9af4-a5a5368a6e14.png)
+![pred res](https://user-images.githubusercontent.com/61036755/95286727-bbd47b00-0881-11eb-9ce1-555a33d3dc72.png)
 
-![pred](https://user-images.githubusercontent.com/61036755/94990715-cea63180-059b-11eb-8337-4311fc5f4485.png)
+![mala pred](https://user-images.githubusercontent.com/61036755/95286732-bf680200-0881-11eb-8548-52dfb945b050.png)
+
+![pneu pred](https://user-images.githubusercontent.com/61036755/95286741-c55de300-0881-11eb-9a38-0cfcdaec9d76.png)
 
 
 <hr>
